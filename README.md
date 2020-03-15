@@ -14,6 +14,10 @@ To install:
 
 ### Usage:
 
+    const [state, toggleState] = useToggle(); // defaults to false
+    
+You can also give it another default initial state:
+    
     const [state, toggleState] = useToggle(true); // defaults to true
     
 If you don't give it a default value, it will default to `false`, or the boolean you feed it.

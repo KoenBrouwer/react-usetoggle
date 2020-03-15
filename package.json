@@ -1,5 +1,5 @@
 {
-  "name": "react-usetoggle",
+  "name": "@koenbrouwer/react-usetoggle",
   "version": "1.0.0",
   "description": "React useToggle hook",
   "main": "lib/index.js",
