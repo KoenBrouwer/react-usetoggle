@@ -9,7 +9,7 @@ Installation into your project is done with the [`npm install` command](https://
 
 To install: 
 
-    npm install --save react-usetoggle
+    npm install --save @koenbrouwer/react-usetoggle
 
 
 ### Usage:
