@@ -1,0 +1,35 @@
+{
+  "name": "react-usetoggle",
+  "version": "1.0.0",
+  "description": "React useToggle hook",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+	"prepare": "npm run build",
+	"build": "tsc"
+  },
+  "files": [
+	"lib/*/**"
+  ],
+  "repository": {
+	"type": "git",
+	"url": "git@github.com:KoenBrouwer/react-usetoggle.git"
+  },
+  "bugs": {
+	"url": "https://github.com/KoenBrouwer/react-usetoggle"
+  },
+  "author": "Koen Brouwer",
+  "license": "ISC",
+  "keywords": [
+	"react",
+	"hook",
+	"useToggle"
+  ],
+  "devDependencies": {
+	"@types/react": "^16.9.23",
+	"typescript": "^3.8.3"
+  },
+  "dependencies": {
+	"react": "^16.13.0"
+  }
+}
