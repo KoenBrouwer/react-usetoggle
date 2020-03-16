@@ -9,7 +9,7 @@
   "build": "tsc"
  },
  "files": [
-  "lib/*/**"
+  "lib/"
  ],
  "repository": {
   "type": "git",
