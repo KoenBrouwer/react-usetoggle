@@ -5,6 +5,7 @@
  "main": "lib/index.js",
  "types": "lib/index.d.ts",
  "scripts": {
+  "pretest": "npm run build",
   "prepare": "npm run build",
   "prepublishOnly": "npm test",
   "preversion": "npm test",
