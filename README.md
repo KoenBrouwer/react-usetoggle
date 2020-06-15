@@ -1,3 +1,11 @@
+### 🙋‍♂️ Made by [@koenbrouwer](https://twitter.com/KoenBrouwer).
+
+> ⚠️ This hook is now part of my collection of hooks called [react-grapple](https://github.com/KoenBrouwer/react-grapple).
+Feel free to open an issue or a pull request in that [repo on GitHub](https://github.com/KoenBrouwer/react-grapple/pulls)!
+The current repository is still usable, but no longer maintained. If you want to use an up to date and supported version of the useToggle-hook, use [react-grapple](https://github.com/KoenBrouwer/react-grapple) instead.
+
+---
+
 # react-usetoggle
 
 Very simple hook for React to have a named boolean in a useState hook.
@@ -22,10 +30,6 @@ You can also give it another default initial state:
     
 If you don't give it a default value, it will default to `false`, or the boolean you feed it.
 And then`toggleState()` will toggle the value from `true` to `false`, or `false` to `true`.
-
-# Contributing
-
-Feel free to open an issue or a pull request in the [repo on GitHub](https://github.com/KoenBrouwer/react-usetoggle/pulls)!
 
 # License
 
